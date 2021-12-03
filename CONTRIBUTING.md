@@ -1,4 +1,4 @@
-# Contributing to React Native NetWork Checker
+# Contributing to LPU UMS chrome extension
 
 All work on LPU UMS chrome Extension happens directly on GitHub. Contributors send pull requests which go through a review process.
 
