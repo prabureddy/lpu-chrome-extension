@@ -1,0 +1,74 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-image: url("../images/background.jpg");
+    height: 510px;
+    width: 310px;
+}
+
+#top {
+    background-image: url("../images/lpu_logo.png");
+    background-size: cover;
+    margin-left: 1px;
+    height: 120px;
+}
+
+#main .heading {
+    text-align: center;
+    color: white;
+}
+
+#form {
+    margin: 0 auto;
+    width: 80%
+}
+
+.checkbox-container {
+    width: 100%;
+    background-color: #97705b;
+    margin: 0 auto;
+    padding: 9px;
+    border: 1px solid brown;
+    border-radius: 10px;
+}
+
+.label {
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    padding-left: 8px
+}
+
+.btn {
+    width: 210px;
+    height: 30px;
+    margin: 0px 0px 13px 60px;
+    border: 1px solid black;
+    font-size: 15pt;
+    padding-left: 10px;
+    box-shadow: 2px 2px black;
+}
+
+#check {
+    width: 20px;
+    vertical-align: middle;
+    height: 20px;
+}
+
+#checkfuture {
+    width: 20px;
+    vertical-align: middle;
+    height: 20px;
+}
+
+#loginbtn {
+    margin-top: 10px;
+    margin-left: 40%;
+}
+
+.credits-text {
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    padding: 5px;
+}
